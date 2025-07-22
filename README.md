@@ -12,7 +12,7 @@ Cada lab incluye:
 
 ## Herramientas empleadas
 
-`Nmap` · `Hydra` · `SSH` · `enum4linux` · `Metasploit` · `Steghide` · `ExifTool` · `scp` · `sudo` · entre otras.
+`Social-Engineer Toolkit (SET)` · `Nmap ` · `smbclient ` · `enum4linux` · `OpenSSL ` · `tcpdump ` · `Wireshark ` · `rpcclient ` · entre otras.
 
 ---
 
